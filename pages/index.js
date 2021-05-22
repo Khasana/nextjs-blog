@@ -26,7 +26,8 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           Hello, I'm Khas. I'm a software enginer and a translator
-          (English/Mongolian). You can contact me on Facebook.
+          (English/Mongolian). You can contact me on{" "}
+          <a href="https://facebook.com">Facebook.</a>
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
